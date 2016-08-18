@@ -1,0 +1,14 @@
+layout_spectrum: 0.6723043485544622
+typography_spectrum: 0.7161842852365226
+color:
+  brandStrength: 0.7528589405119419
+  lightness: 0.14371721679344773
+  saturation: 0.24930175230838358
+  rhythmicContrast: 0.8842100852634758
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Music With Julia
